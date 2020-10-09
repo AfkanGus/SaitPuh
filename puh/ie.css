@@ -1,0 +1,17 @@
+<!--Подключаем Css-->
+<!--CSS для браузера Internet Explorer-->
+<!--[if IE]>
+<link href="ie.css"rel="stylesheet"type="text/css"/>
+<![end]-->
+@CHARSET"UTF-8";
+#sheet1,#sheet3
+{
+	width:0px;
+	height:0px;
+	background:none;
+}
+#sheet2
+{
+	border-top:#000066 100px solid;
+	border-bottom:#000066 100px solid;
+}
